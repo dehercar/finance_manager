@@ -1,0 +1,24 @@
+{
+    "nuevo_ingreso_recurrente": {
+        "fecha_de_inicio": "",
+        "frecuencia_de_ingreso": "",
+        "fecha_de_ingreso": "",
+        "cantidad_de_frecuencias": 0,
+        "ingreso_por_evento": 0,
+        "cuenta_destino": "",
+        "descripcion": "",
+        "categoria": "",
+        "realizado_por": "David",
+        "comentarios": ""
+    },
+    "registro_de_ingreso":{
+        "fecha_de_ingreso": "",
+        "descripcion": "",
+        "categoria": "",
+        "monto": "",
+        "cuenta_destino": "",
+        "realizado_por": "",
+        "ingreso_recurrente_o_extraoridinario": ["recurrente", "extraordinario"],
+        "comentarios": ""
+    }
+}

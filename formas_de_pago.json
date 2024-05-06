@@ -1,0 +1,26 @@
+{
+    "tarjetas_de_credito":{
+        "LikeU": {
+            "dia_de_corte": 12,
+            "dia_de_pago": 1
+        },
+        "Hey Credito": {
+            "dia_de_corte": 12,
+            "dia_de_pago": 1
+        },
+        "Liverpool": {
+            "dia_de_corte": 19,
+            "dia_de_pago": 19
+        },
+        "Costco": {
+            "dia_de_corte": 15,
+            "dia_de_pago": 5
+        },
+        "Fiesta Rewards": {
+            "dia_de_corte": 6,
+            "dia_de_pago": 26
+        }
+        
+    },
+    "debito_y_cuentas": ["Hey Debito", "Santander Universidades", "Banamex Mi Cuenta", "Priority", "Efectivo"]
+}

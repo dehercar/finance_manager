@@ -1,0 +1,49 @@
+{
+    "nueva_deuda_a_plazos": {
+        "fecha_de_transaccion": "",
+        "frecuencia_de_pago": "",
+        "fecha_de_inicio": "",
+        "numero_de_plazos": 0,
+        "dias_de_margen": 0,
+        "monto_total_deuda": 0,
+        "forma_de_pago": "",
+        "descripcion": "",
+        "categoria": "",
+        "realizado_por": "David",
+        "comentarios": ""
+    },
+    "nuevo_cargo_recurrente": {
+        "fecha_de_transaccion": "",
+        "frecuencia_de_pago": "",
+        "fecha_de_inicio": "",
+        "cantidad_de_frecuencias": 0,
+        "dias_de_margen": 0,
+        "monto_por_evento": 0,
+        "forma_de_pago": "",
+        "descripcion": "",
+        "categoria": "",
+        "realizado_por": "David",
+        "comentarios": ""
+    },
+    "transacciones_a_cargo":{
+        "fecha_de_cargo": "",
+        "descripcion":  "",
+        "categoria": "",
+        "monto": "",
+        "forma_de_pago": "",
+        "realizado_por": "",
+        "limite_de_pago": "",
+        "deuda_a_plazos_recurrente_o_normal": ["Plazos","Recurrente","Normal"],
+        "comentarios": ""
+    },
+    "detalle_de_abonos":{
+        "fecha_de_abono": "",
+        "descripcion": "",
+        "categoria": "",
+        "monto_abonado": "",
+        "cuenta_abonada": "",
+        "realizado_por": "",
+        "comentarios": ""
+    }
+
+}
