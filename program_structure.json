@@ -1,0 +1,13 @@
+{
+    "gastos":{
+        "tipo_gasto":{
+            "una_exhibicion": {
+                "origen":["Recurrente", "Individual"]
+            },
+            "deuda":{
+                "origen": ["Plazos", "Individual"]
+            }
+        }
+    },
+    "ingresos":["Sueldo","Negocio"]
+}
