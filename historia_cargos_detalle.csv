@@ -1,0 +1,45 @@
+﻿fecha_de_cargo,descripcion,categoria,monto,forma_de_pago,realizado_por,comentarios,limite_de_pago,deuda_a_plazos_recurrente_o_normal
+2024-05-10,Flores Mamá,Regalos Otros,200.0,Costco,Aylin,Dia de madres,2024-06-03,Normal
+2024-05-09,Flores Mamá,Regalos Otros,200.0,Costco,Aylin,Dia de madres,2024-06-03,Normal
+2023-10-29,Celular Samsung A54,Electrónicos,100.0,LikeU,Aylin,,2023-12-01,Plazos
+2023-11-29,Celular Samsung A54,Electrónicos,100.0,LikeU,Aylin,,2023-12-31,Plazos
+2023-12-29,Celular Samsung A54,Electrónicos,100.0,LikeU,Aylin,,2024-01-31,Plazos
+2024-01-29,Celular Samsung A54,Electrónicos,100.0,LikeU,Aylin,,2024-03-02,Plazos
+2024-02-29,Celular Samsung A54,Electrónicos,100.0,LikeU,Aylin,,2024-03-31,Plazos
+2024-03-29,Celular Samsung A54,Electrónicos,100.0,LikeU,Aylin,,2024-05-01,Plazos
+2024-04-29,Celular Samsung A54,Electrónicos,100.0,LikeU,Aylin,,2024-05-31,Plazos
+2024-05-29,Celular Samsung A54,Electrónicos,555.5555555555555,LikeU,Aylin,,2024-07-01,Plazos
+2024-06-29,Celular Samsung A54,Electrónicos,555.5555555555555,LikeU,Aylin,,2024-07-31,Plazos
+2024-07-29,Celular Samsung A54,Electrónicos,555.5555555555555,LikeU,Aylin,,2024-08-31,Plazos
+2024-08-29,Celular Samsung A54,Electrónicos,555.5555555555555,LikeU,Aylin,,2024-10-01,Plazos
+2024-09-29,Celular Samsung A54,Electrónicos,555.5555555555555,LikeU,Aylin,,2024-10-31,Plazos
+2024-10-29,Celular Samsung A54,Electrónicos,555.5555555555555,LikeU,Aylin,,2024-12-01,Plazos
+2024-11-29,Celular Samsung A54,Electrónicos,555.5555555555555,LikeU,Aylin,,2024-12-31,Plazos
+2024-12-29,Celular Samsung A54,Electrónicos,555.5555555555555,LikeU,Aylin,,2025-01-31,Plazos
+2025-01-29,Celular Samsung A54,Electrónicos,555.5555555555555,LikeU,Aylin,,2025-03-03,Plazos
+2025-03-01,Celular Samsung A54,Electrónicos,555.5555555555555,LikeU,Aylin,,2025-03-31,Plazos
+2025-03-29,Celular Samsung A54,Electrónicos,555.5555555555555,LikeU,Aylin,,2025-05-01,Plazos
+2024-05-21,Colegiatura,Servicios,1000.0,Hey Debito,Aylin,,2024-05-21,Recurrente
+2024-06-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2024-06-21,Recurrente
+2024-07-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2024-07-21,Recurrente
+2024-08-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2024-08-21,Recurrente
+2024-09-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2024-09-21,Recurrente
+2024-10-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2024-10-21,Recurrente
+2024-11-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2024-11-21,Recurrente
+2024-12-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2024-12-21,Recurrente
+2025-01-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2025-01-21,Recurrente
+2025-02-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2025-02-21,Recurrente
+2025-03-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2025-03-21,Recurrente
+2025-04-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2025-04-21,Recurrente
+2025-05-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2025-05-21,Recurrente
+2025-06-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2025-06-21,Recurrente
+2025-07-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2025-07-21,Recurrente
+2025-08-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2025-08-21,Recurrente
+2025-09-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2025-09-21,Recurrente
+2025-10-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2025-10-21,Recurrente
+2025-11-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2025-11-21,Recurrente
+2025-12-21,Colegiatura,Servicios,2000.0,Hey Debito,Aylin,,2025-12-21,Recurrente
+2024-09-21,Reinscripcion,Servicios,800.0,Hey Credito,Aylin,,2024-10-31,Recurrente
+2025-01-21,Reinscripcion,Servicios,1000.0,Hey Credito,Aylin,,2025-03-03,Recurrente
+2025-05-21,Reinscripcion,Servicios,1000.0,Hey Credito,Aylin,,2025-07-01,Recurrente
+2025-09-21,Reinscripcion,Servicios,1000.0,Hey Credito,Aylin,,2025-10-31,Recurrente
