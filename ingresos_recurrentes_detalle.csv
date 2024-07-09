@@ -1,17 +1,17 @@
 ﻿indice,freq,fecha_de_ingreso,ingreso_por_evento,cuenta_destino,descripcion,categoria,realizado_por,ingreso_recurrente_o_extraoridinario,comentarios
-0,0,2024-03-28,500.0,Efectivo,Vita,Ventas,David,Recurrente,Ventas
-1,1,2024-04-04,500.0,Efectivo,Vita,Ventas,David,Recurrente,Ventas
-2,2,2024-04-11,500.0,Efectivo,Vita,Ventas,David,Recurrente,Ventas
-3,3,2024-04-18,500.0,Efectivo,Vita,Ventas,David,Recurrente,Ventas
-4,4,2024-04-25,500.0,Efectivo,Vita,Ventas,David,Recurrente,Ventas
-5,5,2024-05-02,500.0,Efectivo,Vita,Ventas,David,Recurrente,Ventas
-6,6,2024-05-09,500.0,Efectivo,Vita,Ventas,David,Recurrente,Ventas
-7,7,2024-05-16,500.0,Efectivo,Vita,Ventas,David,Recurrente,Ventas
-8,8,2024-05-23,500.0,Efectivo,Vita,Ventas,David,Recurrente,Ventas
-9,9,2024-05-30,500.0,Efectivo,Vita,Ventas,David,Recurrente,Ventas
-10,10,2024-06-06,500.0,Efectivo,Vita,Ventas,David,Recurrente,Ventas
-11,11,2024-06-13,500.0,Efectivo,Vita,Ventas,David,Recurrente,Ventas
-12,0,2024-03-14,23000.0,Banamex Mi Cuenta,Mi descripcion,Salario,David,Recurrente,Sueldo
+0,0,2024-03-28,500.0,Efectivo,Vita,Recompensas,David,Recurrente,Ventas
+1,1,2024-04-04,500.0,Efectivo,Vita,Recompensas,David,Recurrente,Ventas
+2,2,2024-04-11,500.0,Efectivo,Vita,Recompensas,David,Recurrente,Ventas
+3,3,2024-04-18,500.0,Efectivo,Vita,Recompensas,David,Recurrente,Ventas
+4,4,2024-04-25,500.0,Efectivo,Vita,Recompensas,David,Recurrente,Ventas
+5,5,2024-05-02,500.0,Efectivo,Vita,Recompensas,David,Recurrente,Ventas
+6,6,2024-05-09,500.0,Efectivo,Vita,Recompensas,David,Recurrente,Ventas
+7,7,2024-05-16,500.0,Efectivo,Vita,Recompensas,David,Recurrente,Ventas
+8,8,2024-05-23,500.0,Efectivo,Vita,Recompensas,David,Recurrente,Ventas
+9,9,2024-05-30,500.0,Efectivo,Vita,Recompensas,David,Recurrente,Ventas
+10,10,2024-06-06,500.0,Efectivo,Vita,Recompensas,David,Recurrente,Ventas
+11,11,2024-06-13,500.0,Efectivo,Vita,Recompensas,David,Recurrente,Ventas
+12,0,2024-03-14,22000.12,Banamex Mi Cuenta,Mi descripcion,Salario,David,Recurrente,Sueldo
 13,1,2024-03-29,23000.0,Banamex Mi Cuenta,Mi descripcion,Salario,David,Recurrente,Sueldo
 14,2,2024-04-14,23000.0,Banamex Mi Cuenta,Mi descripcion,Salario,David,Recurrente,Sueldo
 15,3,2024-04-29,23000.0,Banamex Mi Cuenta,Mi descripcion,Salario,David,Recurrente,Sueldo
@@ -35,15 +35,3 @@
 33,21,2025-01-29,23000.0,Banamex Mi Cuenta,Mi descripcion,Salario,David,Recurrente,Sueldo
 34,22,2025-02-14,23000.0,Banamex Mi Cuenta,Mi descripcion,Salario,David,Recurrente,Sueldo
 35,23,2025-03-01,23000.0,Banamex Mi Cuenta,Mi descripcion,Salario,David,Recurrente,Sueldo
-36,0,2024-03-28,500.0,Efectivo,Vita,Salario,David,Recurrente,Ventas
-37,1,2024-04-04,500.0,Efectivo,Vita,Salario,David,Recurrente,Ventas
-38,2,2024-04-11,500.0,Efectivo,Vita,Salario,David,Recurrente,Ventas
-39,3,2024-04-18,500.0,Efectivo,Vita,Salario,David,Recurrente,Ventas
-40,4,2024-04-25,500.0,Efectivo,Vita,Salario,David,Recurrente,Ventas
-41,5,2024-05-02,500.0,Efectivo,Vita,Salario,David,Recurrente,Ventas
-42,6,2024-05-09,500.0,Efectivo,Vita,Salario,David,Recurrente,Ventas
-43,7,2024-05-16,500.0,Efectivo,Vita,Salario,David,Recurrente,Ventas
-44,8,2024-05-23,500.0,Efectivo,Vita,Salario,David,Recurrente,Ventas
-45,9,2024-05-30,500.0,Efectivo,Vita,Salario,David,Recurrente,Ventas
-46,10,2024-06-06,500.0,Efectivo,Vita,Salario,David,Recurrente,Ventas
-47,11,2024-06-13,500.0,Efectivo,Vita,Salario,David,Recurrente,Ventas
