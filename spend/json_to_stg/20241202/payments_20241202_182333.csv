@@ -1,0 +1,3 @@
+﻿,payment_method_type,payment_method_name,paid_amount,transaction_date,commerce,receipt_total
+0,Tarjeta de Crédito,Costco Citibanamex,1500.12,2024-12-02,Costco,1513.12
+1,Tarjeta de Crédito,NU,2000.01,2024-12-02,Costco,1513.12
